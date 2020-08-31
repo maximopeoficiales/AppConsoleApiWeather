@@ -1,0 +1,4 @@
+module.exports = {
+  API_KEY_OPENCAGE: process.env.API_KEY_OPENCAGE,
+  API_KEY_OPENWEATHERMAP: process.env.API_KEY_OPENWEATHERMAP,
+};
